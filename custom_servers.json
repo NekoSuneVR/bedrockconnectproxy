@@ -1,0 +1,121 @@
+[
+    {
+		"name": "My Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": [
+			{
+				"name": "NekoSuneVR Crossplatform Vill Server",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.alloyxuast.co.uk",
+				"port": 19132
+			},
+		]
+	},
+    {
+		"name": "Friends Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": []
+	},
+    {
+		"name": "Neko's Active Join Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": [
+            {
+				"name": "Fadecloud",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "mp.fadecloud.com",
+				"port": 19132
+			},
+            {
+				"name": "PokeFind",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.pokefind.co",
+				"port": 19132
+			},
+		]
+	}
+    {
+		"name": "RPG Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": [
+			{
+				"name": "Enchanted Dragons",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.enchanted.gg",
+				"port": 19132
+			},
+		]
+	},
+    {
+		"name": "RPG Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": [
+			{
+				"name": "Enchanted Dragons",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.enchanted.gg",
+				"port": 19132
+			},
+		]
+	},
+    {
+		"name": "Pixelmon Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": [
+			{
+				"name": "Poke Bedrock",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.pokebedrock.com",
+				"port": 19132
+			},
+            {
+				"name": "PokeFind",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.pokefind.co",
+				"port": 19132
+			},
+		]
+	},
+    {
+		"name": "Minigames Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": [
+			{
+				"name": "Galaxite",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.galaxite.net",
+				"port": 19132
+			},
+            {
+				"name": "The Hive",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "geo.hivebedrock.network",
+				"port": 19132
+			},
+            {
+				"name": "CubeCraft",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "mco.cubecraft.net",
+				"port": 19132
+			},
+		]
+	},
+    {
+		"name": "Other Servers",
+		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"content": [
+			{
+				"name": "Lifeboat",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "mco.lbsg.net",
+				"port": 19132
+			},
+            {
+				"name": "Mineville",
+				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"address": "play.inpvp.net",
+				"port": 19132
+			},
+		]
+	}
+]
