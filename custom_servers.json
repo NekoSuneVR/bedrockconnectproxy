@@ -1,11 +1,11 @@
 [
     {
 		"name": "My Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"iconUrl": "https://cdn.discordapp.com/avatars/100463282099326976/399b26c0afd5de84d5f58d1d62aef6b1.png?size=1024",
 		"content": [
 			{
 				"name": "NekoSuneVR Crossplatform Vill Server",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://cdn.discordapp.com/avatars/100463282099326976/399b26c0afd5de84d5f58d1d62aef6b1.png?size=1024",
 				"address": "play.alloyxuast.co.uk",
 				"port": 19132
 			},
@@ -13,22 +13,22 @@
 	},
     {
 		"name": "Friends Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"iconUrl": "https://cdn-icons-png.flaticon.com/512/8131/8131340.png",
 		"content": []
 	},
     {
 		"name": "Neko's Active Join Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"iconUrl": "https://static.thenounproject.com/png/3428421-200.png",
 		"content": [
             {
 				"name": "Fadecloud",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://pbs.twimg.com/profile_images/1455667924799299588/1Ngftl1s_400x400.jpg",
 				"address": "mp.fadecloud.com",
 				"port": 19132
 			},
             {
 				"name": "PokeFind",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://pbs.twimg.com/profile_images/801098502570934272/ClA6jx5o_400x400.jpg",
 				"address": "play.pokefind.co",
 				"port": 19132
 			},
@@ -36,23 +36,11 @@
 	}
     {
 		"name": "RPG Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"iconUrl": "https://cdn-icons-png.flaticon.com/512/3966/3966750.png",
 		"content": [
 			{
 				"name": "Enchanted Dragons",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
-				"address": "play.enchanted.gg",
-				"port": 19132
-			},
-		]
-	},
-    {
-		"name": "RPG Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
-		"content": [
-			{
-				"name": "Enchanted Dragons",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://pbs.twimg.com/profile_images/1771034507061374976/PiZjLUwl_400x400.jpg",
 				"address": "play.enchanted.gg",
 				"port": 19132
 			},
@@ -60,17 +48,17 @@
 	},
     {
 		"name": "Pixelmon Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHT_6V7i5-f6NYvjVSjGCbGitfE2bLxFHzZg&s",
 		"content": [
 			{
 				"name": "Poke Bedrock",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://pokebedrock.com/assets/logo-min.png",
 				"address": "play.pokebedrock.com",
 				"port": 19132
 			},
             {
 				"name": "PokeFind",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://pbs.twimg.com/profile_images/801098502570934272/ClA6jx5o_400x400.jpg",
 				"address": "play.pokefind.co",
 				"port": 19132
 			},
@@ -78,23 +66,23 @@
 	},
     {
 		"name": "Minigames Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"iconUrl": "https://cdn-icons-png.flaticon.com/512/2488/2488377.png",
 		"content": [
 			{
 				"name": "Galaxite",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://static.wikia.nocookie.net/minecraftservers_gamepedia_en/images/9/94/Galaxite_X.png/revision/latest?cb=20230810045137",
 				"address": "play.galaxite.net",
 				"port": 19132
 			},
             {
 				"name": "The Hive",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://static.wikia.nocookie.net/13406ce5-be9e-46c7-9b7d-32f3823a1aff",
 				"address": "geo.hivebedrock.network",
 				"port": 19132
 			},
             {
 				"name": "CubeCraft",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://static.wikia.nocookie.net/minecraft-servers197/images/e/e6/CubeCraft_logo.png/revision/latest/scale-to-width-down/985?cb=20220620173227",
 				"address": "mco.cubecraft.net",
 				"port": 19132
 			},
@@ -102,18 +90,12 @@
 	},
     {
 		"name": "Other Servers",
-		"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+		"iconUrl": "https://cdn-icons-png.freepik.com/256/17470/17470916.png?semt=ais_hybrid",
 		"content": [
 			{
 				"name": "Lifeboat",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
+				"iconUrl": "https://pbs.twimg.com/profile_images/1483451536495853571/6H3Y8dNR_400x400.png",
 				"address": "mco.lbsg.net",
-				"port": 19132
-			},
-            {
-				"name": "Mineville",
-				"iconUrl": "https://i.imgur.com/3BmFZRE.png",
-				"address": "play.inpvp.net",
 				"port": 19132
 			},
 		]
